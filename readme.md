@@ -19,11 +19,11 @@ A Simple and Easy to use Billing system for Businesses
 ![Target](https://cdn.discordapp.com/attachments/953614783482044428/1069255306690961408/Screenshot_157.png)
 ![TargetMenu](https://cdn.discordapp.com/attachments/953614783482044428/1069255307169116240/Screenshot_158.png)
 
-# Preview : 
-# cfx post : 
+Preview : 
+cfx post : 
 
-# Created By : MeetxDev#0421 
-# Support Discord : https://discord.gg/AquwCR3CQb
-# Github : https://github.com/MeetxDev/
-# Store : https://meetxdev.tebex.io/
-# Like my Work : https://ko-fi.com/meetxdev
+Created By : MeetxDev#0421 
+Support Discord : https://discord.gg/AquwCR3CQb
+Github : https://github.com/MeetxDev/
+Store : https://meetxdev.tebex.io/
+Like my Work : https://ko-fi.com/meetxdev
