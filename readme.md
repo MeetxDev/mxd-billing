@@ -15,7 +15,7 @@ A Simple and Easy to use Billing system for Businesses
 
 Preview : https://youtu.be/MfoJ66JS69Y
 \
-cfx post : Will be Updated Soon
+cfx post : https://forum.cfx.re/t/free-meetxdev-a-simple-billing-script/5009833
 
 
 # Images :
