@@ -12,10 +12,10 @@ A Simple and Easy to use Billing system for Businesses
 6) Targeted Item can see amount and items inside the stash and can accept and reject automatically
 7) Money Gets Removed from Target and Gets Added to Biller
 
-```
-Preview : 
-cfx post : 
-```
+
+Preview : https://youtu.be/MfoJ66JS69Y
+cfx post : Will be Updated Soon
+
 
 # Images :
 
