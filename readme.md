@@ -13,8 +13,8 @@ A Simple and Easy to use Billing system for Businesses
 7) Money Gets Removed from Target and Gets Added to Biller
 
 
-![Preview](https://youtu.be/MfoJ66JS69Y)
-![cfx post](Will be Updated Soon)
+[Preview](https://youtu.be/MfoJ66JS69Y)
+[cfx post](Will be Updated Soon)
 
 
 # Images :
