@@ -13,8 +13,8 @@ A Simple and Easy to use Billing system for Businesses
 7) Money Gets Removed from Target and Gets Added to Biller
 
 
-Preview : https://youtu.be/MfoJ66JS69Y
-cfx post : Will be Updated Soon
+![Preview](https://youtu.be/MfoJ66JS69Y)
+![cfx post](Will be Updated Soon)
 
 
 # Images :
@@ -24,10 +24,9 @@ cfx post : Will be Updated Soon
 ![Target](https://cdn.discordapp.com/attachments/953614783482044428/1069255306690961408/Screenshot_157.png)
 ![TargetMenu](https://cdn.discordapp.com/attachments/953614783482044428/1069255307169116240/Screenshot_158.png)
 
-```
+
 Created By : MeetxDev#0421 
 Support Discord : https://discord.gg/AquwCR3CQb
 Github : https://github.com/MeetxDev/
 Store : https://meetxdev.tebex.io/
 Like my Work : https://ko-fi.com/meetxdev
-```
