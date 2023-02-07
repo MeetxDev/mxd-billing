@@ -4,22 +4,22 @@ Config.Target = {
 
     -- [1] = {
     --     modelorcoords = 'prop_name', -- Coords/Model
-    --     ml = 0.0, --[ only if you give coords and want boxzone]
-    --     mb = 0.0 ,--[ only if you give coords and want boxzone]
-    --     mminz = 0.0, --[ only if you give coords and want boxzone]
-    --     mmaxz = 0.0, --[ only if you give coords and want boxzone]
-    --     mdebug = false, --[ only if you give coords and want boxzone]
+    --     ml = 0.0, --[ length for biller box only if you give coords and want boxzone]
+    --     mb = 0.0 ,--[ breadth for biller box only if you give coords and want boxzone]
+    --     mminz = 0.0, --[ minz for biller box only if you give coords and want boxzone]
+    --     mmaxz = 0.0, --[ maxz for biller box only if you give coords and want boxzone]
+    --     mdebug = false, --[ debug for biller box only if you give coords and want boxzone]
     --     job = 'jobname', --[ Job Needed to Give Bill at this Target ]
     --     label = 'Biller Label', --[ Label of the Target ]
     --     shopname = 'Shop Name', --[[ Shop Name (Should be unique for everyshop ) eg - You have two BurgerShots so 
     --     Shop 1 - "Burger Shot 1
     --     Shop 2 - "Burger Shot 2" ]]--
     --     targetmodelorcoords = 'prop_name', -- Coords/model
-    --     tl = 0.0, --[ only if you give coords and want boxzone]
-    --     tb = 0.0, --[ only if you give coords and want boxzone]
-    --     tminz = 0.0, --[ only if you give coords and want boxzone]
-    --     tmaxz = 0.0, --[ only if you give coords and want boxzone]
-    --     tdebug = false, --[ only if you give coords and want boxzone]
+    --     tl = 0.0, --[ length for customer box only if you give coords and want boxzone]
+    --     tb = 0.0, --[ breadth for customer box only if you give coords and want boxzone]
+    --     tminz = 0.0, --[ minz for customer box only if you give coords and want boxzone]
+    --     tmaxz = 0.0, --[ maxz for customer box only if you give coords and want boxzone]
+    --     tdebug = false, --[ debug for customer box only if you give coords and want boxzone]
     --     targetlabel = 'Customer Label', --[ Target Label to Take Items ]
     -- },
     -- [2] = {
