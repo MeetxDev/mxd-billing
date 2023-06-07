@@ -1,3 +1,5 @@
+print("^2px^7-^2Billing ^7v^41^7.^40^7 ^7- ^2Billing Script by ^1MeetxDev^7")
+
 Config = {}
 
 Config.Target = {
